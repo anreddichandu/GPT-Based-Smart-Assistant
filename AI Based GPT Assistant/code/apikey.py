@@ -1,1 +1,1 @@
-GEMINI_API_KEY = "AIzaSyCQSEmMR6cDtCRXa9ittcyyfCfJhujsuKg"
+GEMINI_API_KEY = "gemini-api-key"
